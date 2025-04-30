@@ -36,4 +36,5 @@ public interface UserService {
     List<UserDto> searchUser(String keyword);
 
     //other user specific feature
+    //...
 }
